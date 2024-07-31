@@ -11,6 +11,7 @@ export default defineNuxtConfig({
     '@nuxt/devtools',
     '@nuxtjs/tailwindcss',
     '@pinia/nuxt',
+    '@vee-validate/nuxt',
     '@vueuse/nuxt',
     'nuxt-simple-robots',
     'nuxt-simple-sitemap',
